@@ -1,0 +1,6 @@
+{
+  "name": "SIM-Supervisi Madrasah: Kurikulum Berbasis Cinta & Pembelajaran Mendalam",
+  "description": "Sistem Informasi Supervisi Madrasah Aliyah Mambaul Ulum berbasis Kurikulum Berbasis Cinta (KBC) & Pembelajaran Mendalam dengan database Google Spreadsheet & Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
